@@ -1,5 +1,4 @@
-Based on skeleton code by Abhilash Kuhikar, October 2019
-"""
+
 maxdepth = 0
 from logic_IJK import Game_IJK
 import random
