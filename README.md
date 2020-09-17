@@ -31,11 +31,11 @@ This was the final for the class, we had to detect what orientation a picture wa
 implement and my job was to implement a fully connected neural network with a single hidden layer. The code included in the repository is only the class that will
 make the predictions on the image using the neural network. This will not load the image or preprocess the image.
 
--[nnet.py](https://github.com/daviddrummond95/elements-of-ai/blob/master/nnet.py)
+- [nnet.py](https://github.com/daviddrummond95/elements-of-ai/blob/master/nnet.py)
 
 ## NRooks Variation
 
 The classic N Rooks problem dictates that you place N rooks on a chess board such that no rook can attack another rook. In this variation, there are randomly placed 
 barriers that the rooks can hide behind. This uses a heuristic A* search to find the maximum number of rooks that can be placed on the board.
 
--[nrooks_variant.py](https://github.com/daviddrummond95/elements-of-ai/blob/master/nrooks%20variant)
+- [nrooks_variant.py](https://github.com/daviddrummond95/elements-of-ai/blob/master/nrooks%20variant)
